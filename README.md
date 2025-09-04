@@ -38,8 +38,6 @@ Me apasiona diseñar y desarrollar soluciones educativas que combinen experienci
 - [groki_peo_anep](https://github.com/tinchous/groki_peo_anep) — Integraciones y soluciones orientadas al ecosistema educativo público.
 - [deepseek_peo_anep](https://github.com/tinchous/deepseek_peo_anep) — Búsqueda semántica y descubrimiento de contenidos educativos.
 
-Si querés, puedo añadir para cada proyecto: arquitectura, tecnologías clave, comandos para ejecutarlo localmente y una mini guía de demo.
-
 ---
 
 ## 🧩 Cómo trabajo (metodología)
@@ -88,5 +86,3 @@ Este es un ejemplo genérico que podés adaptar por repo:
 - LinkedIn: (agregá tu LinkedIn aquí)
 
 ---
-
-Si querés que lo suba con badges, estadísticas (stars, languages, CI) o que incluya demos y capturas, decímelo y lo actualizo.
